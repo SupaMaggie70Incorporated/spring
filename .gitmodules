@@ -30,3 +30,6 @@
 [submodule "rts/lib/lunasvg"]
 	path = rts/lib/lunasvg
 	url = https://github.com/sammycage/lunasvg.git
+[submodule "AI/Skirmish/rust-ai"]
+	path = AI/Skirmish/rust-ai
+	url = https://github.com/SupaMaggie70Incorporated/rust-bar-ai.git
